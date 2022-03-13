@@ -9,3 +9,12 @@
 body {
     background-color: #f0c0c0;
 }
+
+.dark-mode {
+    background-color: #7f7f7f;
+    color: white;
+}
+
+.toggle-btn {
+    font-family: Ubuntu Mono;
+}
